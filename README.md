@@ -4,7 +4,6 @@ Official dataset link for ''Reasoning in Dialog: Improving Response Generation b
 
 ## About the corpus
 DRCD corpus consists of 113,116 training, 3,000 validation, and 3,000 test cases.
-Data is comming soon.
 
 ## Citation
 We appreciate your citation if you find our dataset and code beneficial.
